@@ -1,14 +1,13 @@
 # Computer Science
 
 ### Description
-Having pursued Aerospace Engineering for my undergraduate studies, I find my knowledge lacking in the Computer Science Domain.
-Hence, I crafted a series of self-paced learning curriculum for myself to enhance my knowledge in Computer Science.
-I intend to complete this self-paced curriculum as best as I can, hopefully by the end of 2024.
+Having pursued Aerospace Engineering, I find my knowledge in Computer Science Domain lacking. 
+I crafted a series of self-paced learning curriculum to enhance my knowledge in the Computer Science domain.
+I intend to complete this self-paced curriculum hopefully by the end of 2024.
 > 29-12-2023 15:37:00
 
 
 ### Curriculum
-In case anyone is curious, below is the curriculum I have set-up, based on references online.
 ```
 	"Y1S1":
 	- Computer Science 101: Master the Theory Behind Programming 
@@ -40,6 +39,6 @@ In case anyone is curious, below is the curriculum I have set-up, based on refer
 	- Ethereum and Solidity: The Complete Developer's Guide 
 	- Python for Data Science and Machine Learning Bootcamp
 ```
-> The above courses can all be found on Udemy
+> The above courses are on Udemy
 
 
