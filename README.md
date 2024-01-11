@@ -8,7 +8,7 @@ I intend to complete this self-paced curriculum hopefully by the end of 2024.
 
 
 ### Curriculum
-```
+
 	"Y1S1":
 	- <del>Computer Science 101: Master the Theory Behind Programming</del> (11-1-24)
 	- Switching Theory & Logic Design of Digital Circuits 
@@ -38,7 +38,7 @@ I intend to complete this self-paced curriculum hopefully by the end of 2024.
 	- The Complete 2023 Web Development Bootcamp 
 	- Ethereum and Solidity: The Complete Developer's Guide 
 	- Python for Data Science and Machine Learning Bootcamp
-```
+
 > The above courses are on Udemy
 
 
