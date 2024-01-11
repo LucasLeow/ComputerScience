@@ -10,7 +10,7 @@ I intend to complete this self-paced curriculum hopefully by the end of 2024.
 ### Curriculum
 ```
 	"Y1S1":
-	- Computer Science 101: Master the Theory Behind Programming 
+	- <del>Computer Science 101: Master the Theory Behind Programming</del> (11-1-24)
 	- Switching Theory & Logic Design of Digital Circuits 
 	- Discrete Mathematics
 
