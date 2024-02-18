@@ -15,7 +15,7 @@
 ### Y1S1:
 - <del>Computer Science 101: Master the Theory Behind Programming</del> (11-1-2024 21:15)
 - Switching Theory & Logic Design of Digital Circuits 
-- Discrete Mathematics
+- <del>Discrete Mathematics</del> (19-2-2024 00:49)
 
 ### Y1S2:
 - Complete linear algebra: theory and implementation in code 
