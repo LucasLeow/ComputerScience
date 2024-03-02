@@ -4,7 +4,7 @@
 <p align="justify">
 	Having pursued Aerospace Engineering, I find my knowledge in Computer Science Domain lacking. 
 	I crafted a series of self-paced learning curriculum to enhance my knowledge in the Computer Science domain.
-	I intend to complete this self-paced curriculum hopefully by the end of 2024
+	I intend to complete this self-paced curriculum in 2 years. (End of 2025)
 </p>
 
 ###### (29-12-2023 15:37)
